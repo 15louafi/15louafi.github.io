@@ -23,7 +23,7 @@ class PageAbout extends Component {
                 <img className="avatarImg" src={process.env.PUBLIC_URL + '/images/DSC01234.JPG'}></img>
               </div>
               <div id="textDiv">
-               <h1 className="text-center"><div className="body">Aïmen Louafi</div></h1>
+               <h1 className="text-center"><div className="body">Aïmen Lddouafi</div></h1>
                <br></br>
                <br></br><br></br>
                 <p className="lead text-center"><div className="body">Data Scientist</div></p>
