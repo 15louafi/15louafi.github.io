@@ -24,20 +24,16 @@ self.__precacheManifest = [
     "url": "/louafi-aimen-portfolio/static/media/fa-brands-400.4b115e11.woff2"
   },
   {
-    "revision": "b90365bccdabd68c6c03902b4b141f09",
-    "url": "/louafi-aimen-portfolio/static/media/fa-brands-400.b90365bc.woff"
-  },
-  {
     "revision": "d9d17590c975aad1be0ddab673f9c769",
     "url": "/louafi-aimen-portfolio/static/media/fa-brands-400.d9d17590.eot"
   },
   {
-    "revision": "c39278f7abfc798a241551194f55e29f",
-    "url": "/louafi-aimen-portfolio/static/media/fa-brands-400.c39278f7.ttf"
+    "revision": "b90365bccdabd68c6c03902b4b141f09",
+    "url": "/louafi-aimen-portfolio/static/media/fa-brands-400.b90365bc.woff"
   },
   {
-    "revision": "5dd3976cb5d61e2e561f2a46b916f377",
-    "url": "/louafi-aimen-portfolio/static/media/fa-regular-400.5dd3976c.woff"
+    "revision": "c39278f7abfc798a241551194f55e29f",
+    "url": "/louafi-aimen-portfolio/static/media/fa-brands-400.c39278f7.ttf"
   },
   {
     "revision": "414ff5daad323a1c47c5177d4bd29674",
@@ -52,16 +48,20 @@ self.__precacheManifest = [
     "url": "/louafi-aimen-portfolio/static/media/fa-regular-400.f6c6f6c8.ttf"
   },
   {
+    "revision": "5dd3976cb5d61e2e561f2a46b916f377",
+    "url": "/louafi-aimen-portfolio/static/media/fa-regular-400.5dd3976c.woff"
+  },
+  {
     "revision": "e7e957c87c454bccaa3bf9fdaa6874f8",
     "url": "/louafi-aimen-portfolio/static/media/fa-regular-400.e7e957c8.svg"
   },
   {
-    "revision": "462806316fea535a6a57651bc2b000b0",
-    "url": "/louafi-aimen-portfolio/static/media/fa-solid-900.46280631.woff2"
-  },
-  {
     "revision": "b5596f4d339f99e3d69bc41be78db962",
     "url": "/louafi-aimen-portfolio/static/media/fa-solid-900.b5596f4d.eot"
+  },
+  {
+    "revision": "462806316fea535a6a57651bc2b000b0",
+    "url": "/louafi-aimen-portfolio/static/media/fa-solid-900.46280631.woff2"
   },
   {
     "revision": "61969d433bf265b9717a6c357a1e04e4",
@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "/louafi-aimen-portfolio/static/media/fa-solid-900.b70cea03.ttf"
   },
   {
-    "revision": "80533988ff5fecd5be26557d08ce8237",
-    "url": "/louafi-aimen-portfolio/static/media/fa-brands-400.80533988.svg"
-  },
-  {
     "revision": "82905d8d1c06969df11c8c378e9bdd4c",
     "url": "/louafi-aimen-portfolio/static/media/fa-solid-900.82905d8d.svg"
+  },
+  {
+    "revision": "80533988ff5fecd5be26557d08ce8237",
+    "url": "/louafi-aimen-portfolio/static/media/fa-brands-400.80533988.svg"
   },
   {
     "revision": "7370c3679472e9560965ff48a4399d0b",
@@ -92,24 +92,24 @@ self.__precacheManifest = [
     "url": "/louafi-aimen-portfolio/static/media/roboto-latin-100italic.f8b1df51.woff2"
   },
   {
-    "revision": "f9e8e590b4e0f1ff83469bb2a55b8488",
-    "url": "/louafi-aimen-portfolio/static/media/roboto-latin-100italic.f9e8e590.woff"
-  },
-  {
     "revision": "ef7c6637c68f269a882e73bcb57a7f6a",
     "url": "/louafi-aimen-portfolio/static/media/roboto-latin-300.ef7c6637.woff2"
-  },
-  {
-    "revision": "b00849e00f4c2331cddd8ffb44a6720b",
-    "url": "/louafi-aimen-portfolio/static/media/roboto-latin-300.b00849e0.woff"
   },
   {
     "revision": "14286f3ba79c6627433572dfa925202e",
     "url": "/louafi-aimen-portfolio/static/media/roboto-latin-300italic.14286f3b.woff2"
   },
   {
+    "revision": "f9e8e590b4e0f1ff83469bb2a55b8488",
+    "url": "/louafi-aimen-portfolio/static/media/roboto-latin-100italic.f9e8e590.woff"
+  },
+  {
     "revision": "4df32891a5f2f98a363314f595482e08",
     "url": "/louafi-aimen-portfolio/static/media/roboto-latin-300italic.4df32891.woff"
+  },
+  {
+    "revision": "b00849e00f4c2331cddd8ffb44a6720b",
+    "url": "/louafi-aimen-portfolio/static/media/roboto-latin-300.b00849e0.woff"
   },
   {
     "revision": "479970ffb74f2117317f9d24d9e317fe",
@@ -152,31 +152,31 @@ self.__precacheManifest = [
     "url": "/louafi-aimen-portfolio/static/media/roboto-latin-700.adcde98f.woff"
   },
   {
-    "revision": "81f57861ed4ac74741f5671e1dff2fd9",
-    "url": "/louafi-aimen-portfolio/static/media/roboto-latin-700italic.81f57861.woff"
-  },
-  {
     "revision": "da0e717829e033a69dec97f1e155ae42",
     "url": "/louafi-aimen-portfolio/static/media/roboto-latin-700italic.da0e7178.woff2"
+  },
+  {
+    "revision": "81f57861ed4ac74741f5671e1dff2fd9",
+    "url": "/louafi-aimen-portfolio/static/media/roboto-latin-700italic.81f57861.woff"
   },
   {
     "revision": "9b3766ef4a402ad3fdeef7501a456512",
     "url": "/louafi-aimen-portfolio/static/media/roboto-latin-900.9b3766ef.woff2"
   },
   {
-    "revision": "bb1e4dc6333675d11ada2e857e7f95d7",
-    "url": "/louafi-aimen-portfolio/static/media/roboto-latin-900.bb1e4dc6.woff"
-  },
-  {
     "revision": "ebf6d1640ccddb99fb49f73c052c55a8",
     "url": "/louafi-aimen-portfolio/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  {
+    "revision": "bb1e4dc6333675d11ada2e857e7f95d7",
+    "url": "/louafi-aimen-portfolio/static/media/roboto-latin-900.bb1e4dc6.woff"
   },
   {
     "revision": "28f9151055c950874d2c6803a39b425b",
     "url": "/louafi-aimen-portfolio/static/media/roboto-latin-900italic.28f91510.woff"
   },
   {
-    "revision": "fdfd31bbac6eb0b6c5f1795144660889",
+    "revision": "2e2f3790f879e4113eb5e62e6a9f06e0",
     "url": "/louafi-aimen-portfolio/index.html"
   }
 ];
