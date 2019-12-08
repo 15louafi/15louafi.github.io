@@ -1,5 +1,3 @@
-//Ismael Rodriguez, ismaro.394 at gmail dot com
-//About page component
 import React, { Component } from 'react';
 import './PageAbout.css';
 
