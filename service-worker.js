@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/louafi-aimen-portfolio/precache-manifest.6d39a4b4f143af52e010432f86f2e738.js"
+  "/louafi-aimen-portfolio/precache-manifest.7e4684a13082bdaff142b628552cd174.js"
 );
 
 workbox.clientsClaim();
