@@ -29,8 +29,20 @@ class PageAbout extends Component {
                 <p className="lead text-center"><div className="body">Data Scientist</div></p>
               </div>
             </div>
-            <br></br><br></br>
+            </div>
+            <div className="d-xs-none d-sm-none"> {/**This is for little screens */}
+          
+          <div id="avatarDiv">
+            <img className="avatarImgSmall"  src={process.env.PUBLIC_URL + '/images/DSC01234.JPG'}></img>
           </div>
+          <div id="textDiv">
+           <h2 className="text-center">Aïmen Louafi</h2>
+            <p className="lead text-center">Data Scientist</p>
+          </div>
+
+      </div>
+
+            <br></br><br></br>
           <ColoredLine color="#0a07c2" />
           <p className="my-4">
           <div className="body">Hi! I'm currently a Data Scientist working at <a target="_blank" href="https://shift-technology.com">Shift Technology</a>.
