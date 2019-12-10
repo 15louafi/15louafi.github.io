@@ -1,8 +1,13 @@
-.greyText{
+.copyright{
   color: #817f7f;
   }
 
-  .greyText:hover{
+  .copyright:hover{
     color: #000000;
     text-decoration:none;
   }
+
+  .iconText{
+
+  }
+  
