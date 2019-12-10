@@ -58,7 +58,7 @@ class PageAbout extends Component {
           <div className="body">I'm mostly familiar with Python, C#, Java but I also work from time to time using Scala or C. I'm also familiar with SQL, Spark and Hadoop for big data processing. Always looking forward to learning new technologies!
           </div>
           <br></br>
-          <div className="body">This website is still in progress (I'm using it as means to learn React <span role="img" aria-label="wink">😉</span>), but if you're interested in my profile, you can get in touch with me using one of the links down below!
+          <div className="body">This website is still in progress (I'm using it as a means of learning React <span role="img" aria-label="wink">😉</span>), but if you're interested in my profile, you can get in touch with me using one of the links down below!
           </div>
            </p>
           <hr/>
