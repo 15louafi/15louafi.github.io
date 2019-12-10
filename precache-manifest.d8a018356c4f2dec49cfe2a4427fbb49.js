@@ -28,10 +28,6 @@ self.__precacheManifest = [
     "url": "/static/media/fa-brands-400.4b115e11.woff2"
   },
   {
-    "revision": "c39278f7abfc798a241551194f55e29f",
-    "url": "/static/media/fa-brands-400.c39278f7.ttf"
-  },
-  {
     "revision": "b90365bccdabd68c6c03902b4b141f09",
     "url": "/static/media/fa-brands-400.b90365bc.woff"
   },
@@ -40,8 +36,8 @@ self.__precacheManifest = [
     "url": "/static/media/fa-regular-400.414ff5da.eot"
   },
   {
-    "revision": "f6c6f6c8cb7784254ad00056f6fbd74e",
-    "url": "/static/media/fa-regular-400.f6c6f6c8.ttf"
+    "revision": "c39278f7abfc798a241551194f55e29f",
+    "url": "/static/media/fa-brands-400.c39278f7.ttf"
   },
   {
     "revision": "65779ebcc35604a25c2ba77309c5b8af",
@@ -52,12 +48,20 @@ self.__precacheManifest = [
     "url": "/static/media/fa-regular-400.5dd3976c.woff"
   },
   {
-    "revision": "462806316fea535a6a57651bc2b000b0",
-    "url": "/static/media/fa-solid-900.46280631.woff2"
+    "revision": "f6c6f6c8cb7784254ad00056f6fbd74e",
+    "url": "/static/media/fa-regular-400.f6c6f6c8.ttf"
   },
   {
     "revision": "e7e957c87c454bccaa3bf9fdaa6874f8",
     "url": "/static/media/fa-regular-400.e7e957c8.svg"
+  },
+  {
+    "revision": "b5596f4d339f99e3d69bc41be78db962",
+    "url": "/static/media/fa-solid-900.b5596f4d.eot"
+  },
+  {
+    "revision": "462806316fea535a6a57651bc2b000b0",
+    "url": "/static/media/fa-solid-900.46280631.woff2"
   },
   {
     "revision": "61969d433bf265b9717a6c357a1e04e4",
@@ -66,10 +70,6 @@ self.__precacheManifest = [
   {
     "revision": "b70cea0339374107969eb53e5b1f603f",
     "url": "/static/media/fa-solid-900.b70cea03.ttf"
-  },
-  {
-    "revision": "b5596f4d339f99e3d69bc41be78db962",
-    "url": "/static/media/fa-solid-900.b5596f4d.eot"
   },
   {
     "revision": "80533988ff5fecd5be26557d08ce8237",
@@ -96,16 +96,16 @@ self.__precacheManifest = [
     "url": "/static/media/roboto-latin-100italic.f9e8e590.woff"
   },
   {
-    "revision": "14286f3ba79c6627433572dfa925202e",
-    "url": "/static/media/roboto-latin-300italic.14286f3b.woff2"
-  },
-  {
     "revision": "ef7c6637c68f269a882e73bcb57a7f6a",
     "url": "/static/media/roboto-latin-300.ef7c6637.woff2"
   },
   {
     "revision": "b00849e00f4c2331cddd8ffb44a6720b",
     "url": "/static/media/roboto-latin-300.b00849e0.woff"
+  },
+  {
+    "revision": "14286f3ba79c6627433572dfa925202e",
+    "url": "/static/media/roboto-latin-300italic.14286f3b.woff2"
   },
   {
     "revision": "4df32891a5f2f98a363314f595482e08",
@@ -128,16 +128,16 @@ self.__precacheManifest = [
     "url": "/static/media/roboto-latin-400italic.fe65b833.woff"
   },
   {
-    "revision": "db4a2a231f52e497c0191e8966b0ee58",
-    "url": "/static/media/roboto-latin-500italic.db4a2a23.woff2"
+    "revision": "87284894879f5b1c229cb49c8ff6decc",
+    "url": "/static/media/roboto-latin-500.87284894.woff"
   },
   {
     "revision": "020c97dc8e0463259c2f9df929bb0c69",
     "url": "/static/media/roboto-latin-500.020c97dc.woff2"
   },
   {
-    "revision": "87284894879f5b1c229cb49c8ff6decc",
-    "url": "/static/media/roboto-latin-500.87284894.woff"
+    "revision": "db4a2a231f52e497c0191e8966b0ee58",
+    "url": "/static/media/roboto-latin-500italic.db4a2a23.woff2"
   },
   {
     "revision": "288ad9c6e8b43cf02443a1f499bdf67e",
@@ -152,20 +152,20 @@ self.__precacheManifest = [
     "url": "/static/media/roboto-latin-700.adcde98f.woff"
   },
   {
-    "revision": "81f57861ed4ac74741f5671e1dff2fd9",
-    "url": "/static/media/roboto-latin-700italic.81f57861.woff"
+    "revision": "bb1e4dc6333675d11ada2e857e7f95d7",
+    "url": "/static/media/roboto-latin-900.bb1e4dc6.woff"
   },
   {
     "revision": "da0e717829e033a69dec97f1e155ae42",
     "url": "/static/media/roboto-latin-700italic.da0e7178.woff2"
   },
   {
-    "revision": "9b3766ef4a402ad3fdeef7501a456512",
-    "url": "/static/media/roboto-latin-900.9b3766ef.woff2"
+    "revision": "81f57861ed4ac74741f5671e1dff2fd9",
+    "url": "/static/media/roboto-latin-700italic.81f57861.woff"
   },
   {
-    "revision": "bb1e4dc6333675d11ada2e857e7f95d7",
-    "url": "/static/media/roboto-latin-900.bb1e4dc6.woff"
+    "revision": "9b3766ef4a402ad3fdeef7501a456512",
+    "url": "/static/media/roboto-latin-900.9b3766ef.woff2"
   },
   {
     "revision": "ebf6d1640ccddb99fb49f73c052c55a8",
