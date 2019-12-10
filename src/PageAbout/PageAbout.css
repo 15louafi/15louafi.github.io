@@ -29,9 +29,9 @@
 
 
 .contactText {
-
-	font-size: 0.8em;
-
+	margin-left: 8px;
+	font-size: 0.62em;
+	vertical-align: 5px;
 }
 
 
@@ -64,6 +64,12 @@
 }
 
 #avatarDiv {
-	margin-right:110px;
+	margin-right:50px;
 }
+
+#textDiv {
+	margin-top:20px;
+}
+
+
 
