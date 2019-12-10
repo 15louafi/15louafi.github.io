@@ -8,7 +8,7 @@ class CustomMenu extends React.Component {
 
   render () {
     return (
-      <Menu right width={ 180 } pageWrapId={ "page-wrap" } outerContainerId={ "outer-container" }  >
+      <Menu left width={ 180 } pageWrapId={ "page-wrap" } outerContainerId={ "outer-container" }  >
         <a id="home" className="menu-item body" href="/">Home</a>
         <a id="about" className="menu-item body" href="/about">About</a>
       </Menu>
