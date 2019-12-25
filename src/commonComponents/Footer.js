@@ -6,16 +6,29 @@ const footerStyle = {
   fontSize: "15px",
   color: "black",
   textAlign: "center",
+  marginBottom: "40px",
   left: "0",
   bottom: "0",
   width: "100%"
 };
 
+const ColoredLine = ({ color }) => (
+  <hr
+      style={{
+          color: color,
+          backgroundColor: color,
+          height: 1,
+          marginBottom: "40px"
+      }}
+  />
+);
 
 function Footer() {
   return (
     <div>
+
       <div style={footerStyle}> <div>
+      <ColoredLine color="#0a07c2" />
                 <div className="row"> 
             <div className="contact col-3">
               <a href="mailto:aimen.louafi@shift-technology.com" target="_blank"><span className="contactIcon text-center"><i className="fas fa-envelope"/><span className="contactText body">Email</span></span>
