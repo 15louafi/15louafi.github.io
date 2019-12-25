@@ -3,7 +3,7 @@ import CustomMenu from './commonComponents/Menu.js';
 import Footer from './commonComponents/Footer.js';
 import PageAbout from './PageAbout/PageAbout.js';
 import MainPage from './MainPage/MainPage.js';
-import { HashRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route, BrowserRouter } from 'react-router-dom';
 import ScrollToTop from './scrollToTop.js';
 class App extends Component {
 
@@ -16,6 +16,7 @@ class App extends Component {
       <div id="outer-container">
       <CustomMenu/>
       <main id="page-wrap">
+      <BrowserRouter>
       <div className="container">
         	 <Switch>
 	          <Route name="index" exact path="/" component={MainPage} />
@@ -24,6 +25,7 @@ class App extends Component {
           <Footer>
     </Footer>
       </div>
+      </BrowserRouter>
       </main>
 </div>
       </ScrollToTop>
